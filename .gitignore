@@ -1,3 +1,4 @@
 secrets.txt
-#src/lichess-api/secrets.txt
-# i think this is safe now
+src/lichess-api/secrets.txt
+
+# only secrets.txt works but im gonna put this (line 2) here to be safe
