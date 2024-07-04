@@ -1,0 +1,4 @@
+idk ill put some settings in here later for people to tweak for a better chess bot
+
+todo:
+- add time control settings (what time control can the bot play under?)

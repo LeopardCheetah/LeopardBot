@@ -1,13 +1,9 @@
 # LeopardBot
 
-v1 of a chess bot
-
----
+v1 of a chess bot that will be able to play on lichess
 
 https://lichess.org/@/LeopardBot
 
+---
 
-Resources:    
-- https://lichess.org/api#tag/Bot   
-- https://github.com/lichess-bot-devs/lichess-bot   
-- https://lichess-org.github.io/berserk/   
+File Structure based on a rough sketch from 07/02/2024
