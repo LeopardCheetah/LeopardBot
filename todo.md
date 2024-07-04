@@ -6,6 +6,8 @@ I'll also keep the things that I've done (progress made)
 Handshake:
 - [ ] Make working terminal chess (no bot, just chess pieces and stuff)
 
+- [ ] worry about python static typing or whatever
+
 Opening:
 - [ ] Successfully connect to lichess API + read events
 - [ ] Find a basic evaluation function 
