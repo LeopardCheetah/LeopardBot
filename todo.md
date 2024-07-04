@@ -3,22 +3,26 @@ I'll also keep the things that I've done (progress made)
 
 ---
 
-Origin:
+Handshake:
 - [ ] Make working terminal chess (no bot, just chess pieces and stuff)
 
-Beginnings:
+Opening:
 - [ ] Successfully connect to lichess API + read events
 - [ ] Find a basic evaluation function 
 - [ ] Code up a manual mode (for console playing, etc.)
 - [ ] Play a game (or a few) against my bot
 
-Moving on:
+Middlegame:
 - [ ] Find a better evaluation function
     - [ ] archive the other evaluation functions
 - [ ] Make bot even stronger
 - [ ] Be able to play from custom FEN
 - [ ] Establish bot thinking time
 
+
+Endgame:
+- [ ] Alpha-beta/min-max tree pruning and stuff
+- [ ] train the bot using chess positions??
 
 
 Some cool features:
@@ -29,4 +33,5 @@ Some cool features:
 
 Wayyyy later:
 - [ ] Optimize for different time controls (e.g. bullet == no tablebase, rapid == yes tablebase)
-- [ ] Make this project available for everyone to fork
+- [ ] Make this project available for everyone to fork (SETUP.md)
+- [ ] chess.com api
