@@ -41,3 +41,4 @@ Wayyyy later:
 
 even more side projects:
 - [ ] make a scrabble bot (woogles)
+- [ ] minesweeper machine
