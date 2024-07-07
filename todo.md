@@ -37,3 +37,7 @@ Wayyyy later:
 - [ ] Optimize for different time controls (e.g. bullet == no tablebase, rapid == yes tablebase)
 - [ ] Make this project available for everyone to fork (SETUP.md)
 - [ ] chess.com api
+
+
+even more side projects:
+- [ ] make a scrabble bot (woogles)
