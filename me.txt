@@ -1,0 +1,13 @@
+some links (so you don't need to have these open):
+- https://www.chessprogramming.org/Evaluation
+- https://www2.seas.gwu.edu/~simhaweb/champalg/chess/chess.html
+- https://stackoverflow.com/questions/17379849/simple-minimax-evaluation-function-for-chess-position
+- https://www.chessprogramming.org/Simplified_Evaluation_Function
+- https://chess.stackexchange.com/questions/40238/how-does-centipawn-scoring-work-why-is-a-higher-positive-score-horrible-while
+- https://lichess.org/api#tag/Board/operation/boardGameClaimVictory
+- https://requests.readthedocs.io/en/latest/user/quickstart/
+- https://requests.readthedocs.io/en/latest/user/advanced/ -- specifically the part about streaming requests
+- https://requests.readthedocs.io/en/latest/api/
+- https://lichess.org/@/LeopardBot/all
+
+- https://chatgpt.com/
