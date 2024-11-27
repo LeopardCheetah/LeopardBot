@@ -35,4 +35,5 @@ Some other chess bot stuff:
 - https://en.wikipedia.org/wiki/0x88
 
 
-and many other links
+Some other cool ones:
+- https://obrhubr.org/chess-engine    
